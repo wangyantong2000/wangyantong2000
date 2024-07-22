@@ -1,5 +1,4 @@
-👋 Hi, I’m @wangyantong2000
-
+👋 Hi, I’m @wangyantong2000. I am currently a master's student at East China Normal University and a member of XLab.
 
 <!---
 wangyantong2000/wangyantong2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
